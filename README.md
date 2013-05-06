@@ -1,5 +1,5 @@
 Quadrupeds
 ==========
 
-To download / save the files and/or folders, choose ZIP from the menu in the Quadruped folder.
-The folders should be added to the Arduino -> Libraries folder.
+This folder contains sample code pertaining to Quadruped models from Lynxmotion, based on Arduino.
+In order to use the code, you can either download the individual files, or download the appropriate folder.
