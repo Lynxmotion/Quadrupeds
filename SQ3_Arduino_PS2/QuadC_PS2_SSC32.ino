@@ -14,7 +14,12 @@
 //
 //KNOWN BUGS:
 //    - Lots ;)
-//
+//NOTES:
+// - Requires the Borboarduino and the SSC-32.
+// - See Hex_CFG.h to onfigure options and see what pins are used.
+// - Install all the provided libraires (those specific versions are required)
+// - Update the SSC-32 firmware to its latest version. You can find it at: 
+//     http://www.lynxmotion.com/p-395-ssc-32-servo-controller.aspx
 //=============================================================================
 // Header Files
 //=============================================================================
