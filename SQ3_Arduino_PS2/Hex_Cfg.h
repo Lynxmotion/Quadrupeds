@@ -96,13 +96,13 @@
 #define SOUND_PIN    5        // Botboarduino JR pin number
 
 // PS2 definitions
-#define PS2_DAT      6        
+#define PS2_DAT      8        
 #define PS2_CMD      7
-#define PS2_SEL      8
+#define PS2_SEL      6
 #define PS2_CLK      9
 
-#define cSSC_OUT     10      	//Output pin for (SSC32 RX) on BotBoarduino (Yellow)
-#define cSSC_IN      11      	//Input pin for (SSC32 TX) on BotBoarduino (Blue)
+#define cSSC_OUT     12      	//Output pin for (SSC32 RX) on BotBoarduino (Yellow)
+#define cSSC_IN      13      	//Input pin for (SSC32 TX) on BotBoarduino (Blue)
 
 // XBee was defined to use a hardware Serial port
 #define XBEE_BAUD      38400
